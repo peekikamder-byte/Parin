@@ -1,0 +1,20 @@
+ @media (max-width: 600px) {
+            div {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                
+            }
+            img {
+                
+                justify-content: center;
+                width: 500px;
+                height: 800px;
+            }
+        }
+        @media (min-width: 601px) {
+            img {
+                width: 1890px;
+                height: 933px;
+            }
+        }
